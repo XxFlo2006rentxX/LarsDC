@@ -1,2 +1,0 @@
-# LarsDC
-Nur für Lars
